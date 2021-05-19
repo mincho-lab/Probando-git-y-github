@@ -10,3 +10,11 @@ print("holis mundo que tal, probando git, btw")
 #Ya estoy entendiendo esta webada jijijijij
 
 #               Segundo Commit
+#Hoy si ya esta el segundo commit, seguire viendo el video tutorial XD
+#Mantengase al tanto, cambio y fuera.
+
+
+#               Tercer commit
+#Pos crei que ya iba entendiendo, ahora me siento confundido weyyyy 
+#Seguiremos viendo que pedo, cambio y fuera.
+
