@@ -37,3 +37,8 @@ Seguiremos viendo que pedo, cambio y fuera.
 #               Sexto commit
 #Me puse a experimentar con un nuevo archivo, esperando resultados y entender comandos más avanzados <3
 #Cambio y fuera
+
+
+#               Septimo commit
+#He creado un archivo txt para ignorar  en un .gitignore, antes lo voy agregar y luego lo subire
+#como si deseara que se actualizara, pero a futur le doy BANAMEX
