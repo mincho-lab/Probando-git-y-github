@@ -33,3 +33,7 @@ Seguiremos viendo que pedo, cambio y fuera.
 #JAJAJAJAJAA PRIMERO HAY QUE GUARDAR, O SEA, git add git_python.py 
 #Hare eso y ya vuelvo con mi nuevo commit
 
+
+#               Sexto commit
+#Me puse a experimentar con un nuevo archivo, esperando resultados y entender comandos más avanzados <3
+#Cambio y fuera
