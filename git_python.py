@@ -27,3 +27,9 @@ Seguiremos viendo que pedo, cambio y fuera.
 
 #Acabo de revisar Soruce control de Code y pues he visto los cambios con las lineas quitas y agregadas
 #Voy hacer un commit y antes un add a ver que pex, luego lo haré al reves escribiendo más cosas randoms jijij
+
+#               Quinto commit
+#Bueno ya hice lo anterior seguimos probando, hoy hare primer commit y luego add.... PENDIENTES 
+#JAJAJAJAJAA PRIMERO HAY QUE GUARDAR, O SEA, git add git_python.py 
+#Hare eso y ya vuelvo con mi nuevo commit
+
