@@ -42,3 +42,14 @@ Seguiremos viendo que pedo, cambio y fuera.
 #               Septimo commit
 #He creado un archivo txt para ignorar  en un .gitignore, antes lo voy agregar y luego lo subire
 #como si deseara que se actualizara, pero a futur le doy BANAMEX
+
+#               Octavo commit
+#Ya creé mi .gitignore y agregé el archivo_a_ignorar.txtq
+#Haré el commit entonces 
+
+
+#               Noveno commit
+#Haré un branch nuevo y pos ahi dejaré todo lo anterior como un version o algo por el estilo... 
+#Bueno será una version alternativa, 
+#Ya veremos dijo el ciego, y pos no vio nada XD
+

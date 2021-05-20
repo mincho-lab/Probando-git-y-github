@@ -1,0 +1,1 @@
+Este archivo se va a ignorar, y crearé un .gitignore
